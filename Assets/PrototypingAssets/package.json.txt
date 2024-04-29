@@ -1,11 +1,11 @@
 {
-    "name": "com.toshi.prototyping-assets",
+    "name": "com.toshi-kundesu.prototyping-assets",
     "displayName": "Prototyping Assets", 
     "version": "0.1.0",               
     "unity": "2022.3",
     "description": "Prototyping Assets.",
     "author": {
-        "name": "toshi",
+        "name": "toshi-kundesu",
         "url": "https://github.com/toshi-kundesu"
     },
 
