@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.toshi-kundesu.prototyping-assets": {
+      "version": "file:PrototypingAssets",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.8.7",
       "depth": 1,
